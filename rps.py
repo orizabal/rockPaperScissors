@@ -59,7 +59,7 @@ while True:
     else:
         print(
             hands[hand] + ' vs. ' + hands[comp_hand] + '\n' +
-            'Scissors beats rock! \n'
+            'Scissors beats paper! \n'
         )
         result = 3
 
